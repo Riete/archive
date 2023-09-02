@@ -2,4 +2,4 @@ module github.com/riete/archive
 
 go 1.21.0
 
-require github.com/riete/go-set v0.0.4 // indirect
+require github.com/riete/go-set v0.0.4
